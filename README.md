@@ -1,3 +1,7 @@
+# CURD--REACT-JS URl added below
+https://playful-gelato-ffae3d.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
